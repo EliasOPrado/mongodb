@@ -12,3 +12,8 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
+# commands to trouble shot commits on github
+
+- git config --global user.name "Your Name"
+- git config --global user.email you@example.com
